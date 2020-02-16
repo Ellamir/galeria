@@ -1,0 +1,9 @@
+.hero-banner {
+    background-image: url('../img/image-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 160px;
+    width: 100%;
+    background-position: center;
+    padding-top: 110px;
+  }
