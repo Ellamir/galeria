@@ -1,6 +1,7 @@
-@import 'abstracts/grid';
+@import 'abstracts/mixins';
 @import 'abstracts/variables';
-@import 'abstracts/reset';
-@import 'layout/header';
-@import 'layout/body';
-@import 'layout/footer';
+@import 'layout/nav';
+@import 'layout/hero';
+@import 'layout/user';
+// @import 'layout/body';
+// @import 'layout/footer';

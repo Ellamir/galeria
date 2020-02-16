@@ -1,9 +1,54 @@
+/*
+// Tipografias
+$tipo-base: 'Roboto', sans-serif;
+$bold: 700;
+$medium: 500;
+$normal: 400;
+$highlight-color: $fuzzy-wuzzy;
+$text-color: $raisin-black;
+$text-main: $roboto $text-color;
+$text-title: $playfair-display $eerie-black;
+$font-size-sup: 13;
+$font-size-logo: 47;
+$font-size-title-content: 33;
+$font-size-name: 27;
+$font-size-title-video: 24;
+$font-size-follow: 19;
+$font-size-follow-video: 21; */
+.navbar-brand {
+  height: auto;
+  width: 100px;
+}
+
 .hero-banner {
-    background-image: url('../img/image-banner.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 160px;
-    width: 100%;
-    background-position: center;
-    padding-top: 110px;
-  }
+  background-image: url("../img/image-banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 160px;
+  width: 100%;
+  background-position: center;
+  padding-top: 110px;
+  padding-bottom: 30px;
+}
+
+section .info {
+  padding-top: 10px;
+}
+
+.menu {
+  padding-top: 30px;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.card {
+  min-width: 350px;
+}
+
+.card-img-top {
+  min-width: 350px;
+}
+
+/*# sourceMappingURL=style.css.map */
